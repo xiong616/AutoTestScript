@@ -33,3 +33,5 @@ else:
 #print __doc__
 
 unittest.main()
+
+print "this is my git test"
