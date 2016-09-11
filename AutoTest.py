@@ -35,3 +35,4 @@ else:
 unittest.main()
 
 print "this is my git test"
+print "this is my second test message"
